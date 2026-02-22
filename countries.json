@@ -17,7 +17,7 @@
       "name": "Afghan afghani",
       "symbol": "؋"
     },
-    "division_type": "province",
+    "division_type": "Province",
     "divisions": [
       {
         "name": "Badakhshan",
@@ -218,7 +218,7 @@
       "name": "Euro",
       "symbol": "€"
     },
-    "division_type": "municipality",
+    "division_type": "Municipality",
     "divisions": [
       {
         "name": "Brändö",
@@ -329,7 +329,7 @@
       "name": "Albanian lek",
       "symbol": "Lek"
     },
-    "division_type": "county",
+    "division_type": "County",
     "divisions": [
       {
         "name": "Berat",
@@ -420,7 +420,7 @@
       "name": "Algerian dinar",
       "symbol": "دج"
     },
-    "division_type": "province",
+    "division_type": "Province",
     "divisions": [
       {
         "name": "Adrar",
@@ -741,7 +741,7 @@
       "name": "United States dollar",
       "symbol": "$"
     },
-    "division_type": "district/atoll",
+    "division_type": "District or Atoll",
     "divisions": [
       {
         "name": "Eastern",
@@ -797,7 +797,7 @@
       "name": "Euro",
       "symbol": "€"
     },
-    "division_type": "parish",
+    "division_type": "Parish",
     "divisions": [
       {
         "name": "Andorra la Vella",
@@ -863,7 +863,7 @@
       "name": "Angolan kwanza",
       "symbol": "Kz"
     },
-    "division_type": "province",
+    "division_type": "Province",
     "divisions": [
       {
         "name": "Bengo",
@@ -984,7 +984,7 @@
       "name": "Eastern Caribbean dollar",
       "symbol": "$"
     },
-    "division_type": "district",
+    "division_type": "District",
     "divisions": [
       {
         "name": "Blowing Point",
@@ -1177,7 +1177,7 @@
       "name": "Eastern Caribbean dollar",
       "symbol": "$"
     },
-    "division_type": "dependency/parish",
+    "division_type": "Parish or Dependency",
     "divisions": [
       {
         "name": "Barbuda",
@@ -1248,7 +1248,7 @@
       "name": "Argentine peso",
       "symbol": "$"
     },
-    "division_type": "city/province",
+    "division_type": "Province or City",
     "divisions": [
       {
         "name": "Autonomous City of Buenos Aires",
@@ -1476,7 +1476,7 @@
       "name": "Armenian dram",
       "symbol": "֏"
     },
-    "division_type": "region/city",
+    "division_type": "Region or City",
     "divisions": [
       {
         "name": "Aragatsotn",
@@ -1562,7 +1562,7 @@
       "name": "Aruban florin",
       "symbol": "ƒ"
     },
-    "division_type": "region/capital city",
+    "division_type": "Region or Capital city",
     "divisions": [
       {
         "name": "Noord",
@@ -1638,7 +1638,7 @@
       "name": "Australian dollar",
       "symbol": "$"
     },
-    "division_type": "territory/state",
+    "division_type": "State or Territory",
     "divisions": [
       {
         "name": "Australian Capital Territory",
@@ -1793,7 +1793,7 @@
       "name": "Euro",
       "symbol": "€"
     },
-    "division_type": "state",
+    "division_type": "State",
     "divisions": [
       {
         "name": "Burgenland",
@@ -1869,7 +1869,7 @@
       "name": "Azerbaijani manat",
       "symbol": "m"
     },
-    "division_type": "district/municipality/autonomous republic",
+    "division_type": "District or Municipality",
     "divisions": [
       {
         "name": "Absheron",
@@ -2290,7 +2290,7 @@
       "name": "Bahraini dinar",
       "symbol": ".د.ب"
     },
-    "division_type": "governorate",
+    "division_type": "Governorate",
     "divisions": [
       {
         "name": "Capital",
@@ -2341,7 +2341,7 @@
       "name": "Bangladeshi taka",
       "symbol": "৳"
     },
-    "division_type": "district/division",
+    "division_type": "District or Division",
     "divisions": [
       {
         "name": "Bagerhat",
@@ -2732,7 +2732,7 @@
       "name": "Barbadian dollar",
       "symbol": "Bds$"
     },
-    "division_type": "parish",
+    "division_type": "Parish",
     "divisions": [
       {
         "name": "Christ Church",
@@ -2818,7 +2818,7 @@
       "name": "Belarusian ruble",
       "symbol": "Br"
     },
-    "division_type": "oblast/city",
+    "division_type": "Oblast or City",
     "divisions": [
       {
         "name": "Brest",
@@ -2884,7 +2884,7 @@
       "name": "Euro",
       "symbol": "€"
     },
-    "division_type": "province/region",
+    "division_type": "Province or Region",
     "divisions": [
       {
         "name": "Antwerp",
@@ -2980,7 +2980,7 @@
       "name": "Belize dollar",
       "symbol": "$"
     },
-    "division_type": "district",
+    "division_type": "District",
     "divisions": [
       {
         "name": "Belize",
@@ -3041,7 +3041,7 @@
       "name": "West African CFA franc",
       "symbol": "CFA"
     },
-    "division_type": "department",
+    "division_type": "Department",
     "divisions": [
       {
         "name": "Alibori",
@@ -3132,7 +3132,7 @@
       "name": "Bermudian dollar",
       "symbol": "$"
     },
-    "division_type": "municipality",
+    "division_type": "Municipality",
     "divisions": [
       {
         "name": "Devonshire",
@@ -3208,7 +3208,7 @@
       "name": "Bhutanese ngultrum",
       "symbol": "Nu."
     },
-    "division_type": "district",
+    "division_type": "District",
     "divisions": [
       {
         "name": "Bumthang ",
@@ -3339,7 +3339,7 @@
       "name": "Bolivian boliviano",
       "symbol": "Bs."
     },
-    "division_type": "department",
+    "division_type": "Department",
     "divisions": [
       {
         "name": "Beni",
@@ -3415,7 +3415,7 @@
       "name": "United States dollar",
       "symbol": "$"
     },
-    "division_type": "special municipality",
+    "division_type": "Special municipality",
     "divisions": [
       {
         "name": "Bonaire",
@@ -3461,7 +3461,7 @@
       "name": "Bosnia and Herzegovina convertible mark",
       "symbol": "KM"
     },
-    "division_type": "district/entity",
+    "division_type": "Entity or District",
     "divisions": [
       {
         "name": "Brčko",
@@ -3507,7 +3507,7 @@
       "name": "Botswana pula",
       "symbol": "P"
     },
-    "division_type": "district/city/town",
+    "division_type": "District or Town",
     "divisions": [
       {
         "name": "Central",
@@ -3647,7 +3647,7 @@
       "name": "Brazilian real",
       "symbol": "R$"
     },
-    "division_type": "state/federal district",
+    "division_type": "State or Federal district",
     "divisions": [
       {
         "name": "Acre",
@@ -3948,7 +3948,7 @@
       "name": "Brunei dollar",
       "symbol": "B$"
     },
-    "division_type": "district",
+    "division_type": "District",
     "divisions": [
       {
         "name": "Belait",
@@ -3999,7 +3999,7 @@
       "name": "Bulgarian lev",
       "symbol": "Лв."
     },
-    "division_type": "district",
+    "division_type": "District",
     "divisions": [
       {
         "name": "Blagoevgrad",
@@ -4170,7 +4170,7 @@
       "name": "West African CFA franc",
       "symbol": "CFA"
     },
-    "division_type": "province/region",
+    "division_type": "Province or Region",
     "divisions": [
       {
         "name": "Balé",
@@ -4491,7 +4491,7 @@
       "name": "Burundian franc",
       "symbol": "FBu"
     },
-    "division_type": "province",
+    "division_type": "Province",
     "divisions": [
       {
         "name": "Bubanza",
@@ -4612,7 +4612,7 @@
       "name": "Cambodian riel",
       "symbol": "KHR"
     },
-    "division_type": "province/autonomous municipality",
+    "division_type": "Province or Autonomous municipality",
     "divisions": [
       {
         "name": "Banteay Meanchey",
@@ -4768,7 +4768,7 @@
       "name": "Central African CFA franc",
       "symbol": "FCFA"
     },
-    "division_type": "region",
+    "division_type": "Region",
     "divisions": [
       {
         "name": "Adamawa",
@@ -4849,7 +4849,7 @@
       "name": "Canadian dollar",
       "symbol": "$"
     },
-    "division_type": "province/territory",
+    "division_type": "Province or Territory",
     "divisions": [
       {
         "name": "Alberta",
@@ -5134,7 +5134,7 @@
       "name": "Cape Verdean escudo",
       "symbol": "$"
     },
-    "division_type": "geographical region/municipality",
+    "division_type": "Municipality or Geographical region",
     "divisions": [
       {
         "name": "Barlavento Islands",
@@ -5331,7 +5331,7 @@
       "name": "Central African CFA franc",
       "symbol": "FCFA"
     },
-    "division_type": "prefecture/commune/economic prefecture",
+    "division_type": "Prefecture or Commune",
     "divisions": [
       {
         "name": "Bamingui-Bangoran",
@@ -5447,7 +5447,7 @@
       "name": "Central African CFA franc",
       "symbol": "FCFA"
     },
-    "division_type": "province",
+    "division_type": "Province",
     "divisions": [
       {
         "name": "Bahr el Gazel",
@@ -5593,7 +5593,7 @@
       "name": "Chilean peso",
       "symbol": "$"
     },
-    "division_type": "region",
+    "division_type": "Region",
     "divisions": [
       {
         "name": "Aisén del General Carlos Ibañez del Campo",
@@ -5718,7 +5718,7 @@
       "name": "Chinese yuan",
       "symbol": "¥"
     },
-    "division_type": "province/municipality/autonomous region/special administrative region",
+    "division_type": "Province or Autonomous region",
     "divisions": [
       {
         "name": "Anhui",
@@ -5986,7 +5986,7 @@
       "name": "Colombian peso",
       "symbol": "$"
     },
-    "division_type": "department/capital district",
+    "division_type": "Department or Capital district",
     "divisions": [
       {
         "name": "Amazonas",
@@ -6182,7 +6182,7 @@
       "name": "Comorian franc",
       "symbol": "CF"
     },
-    "division_type": "island",
+    "division_type": "Island",
     "divisions": [
       {
         "name": "Anjouan",
@@ -6228,7 +6228,7 @@
       "name": "Congolese Franc",
       "symbol": "FC"
     },
-    "division_type": "department",
+    "division_type": "Department",
     "divisions": [
       {
         "name": "Bouenza",
@@ -6349,7 +6349,7 @@
       "name": "Costa Rican colón",
       "symbol": "₡"
     },
-    "division_type": "province",
+    "division_type": "Province",
     "divisions": [
       {
         "name": "Alajuela",
@@ -6415,7 +6415,7 @@
       "name": "Euro",
       "symbol": "€"
     },
-    "division_type": "county",
+    "division_type": "County",
     "divisions": [
       {
         "name": "Bjelovar-Bilogora",
@@ -6546,7 +6546,7 @@
       "name": "Cuban peso",
       "symbol": "$"
     },
-    "division_type": "province/special municipality",
+    "division_type": "Province or Special municipality",
     "divisions": [
       {
         "name": "Artemisa",
@@ -6687,7 +6687,7 @@
       "name": "Euro",
       "symbol": "€"
     },
-    "division_type": "district",
+    "division_type": "District",
     "divisions": [
       {
         "name": "Famagusta (Mağusa)",
@@ -6755,7 +6755,7 @@
       "name": "Czech koruna",
       "symbol": "Kč"
     },
-    "division_type": "district/region/capital city",
+    "division_type": "District or Region",
     "divisions": [
       {
         "name": "Benešov",
@@ -7236,7 +7236,7 @@
       "name": "Congolese Franc",
       "symbol": "FC"
     },
-    "division_type": "province/city",
+    "division_type": "Province or City",
     "divisions": [
       {
         "name": "Bas-Uélé",
@@ -7404,7 +7404,7 @@
       "name": "Danish krone",
       "symbol": "Kr."
     },
-    "division_type": "region",
+    "division_type": "Region",
     "divisions": [
       {
         "name": "Central Denmark",
@@ -7460,7 +7460,7 @@
       "name": "Djiboutian franc",
       "symbol": "Fdj"
     },
-    "division_type": "region/city",
+    "division_type": "Region or City",
     "divisions": [
       {
         "name": "Ali Sabieh",
@@ -7521,7 +7521,7 @@
       "name": "Eastern Caribbean dollar",
       "symbol": "$"
     },
-    "division_type": "parish",
+    "division_type": "Parish",
     "divisions": [
       {
         "name": "Saint Andrew",
@@ -7602,7 +7602,7 @@
       "name": "Dominican peso",
       "symbol": "$"
     },
-    "division_type": "province/region/district",
+    "division_type": "Province or Region",
     "divisions": [
       {
         "name": "Azua",
@@ -7843,7 +7843,7 @@
       "name": "United States dollar",
       "symbol": "$"
     },
-    "division_type": "province",
+    "division_type": "Province",
     "divisions": [
       {
         "name": "Azuay",
@@ -8001,7 +8001,7 @@
       "name": "Egyptian pound",
       "symbol": "ج.م"
     },
-    "division_type": "governorate",
+    "division_type": "Governorate",
     "divisions": [
       {
         "name": "Alexandria",
@@ -8167,7 +8167,7 @@
       "name": "United States dollar",
       "symbol": "$"
     },
-    "division_type": "department",
+    "division_type": "Department",
     "divisions": [
       {
         "name": "Ahuachapán",
@@ -8268,7 +8268,7 @@
       "name": "Central African CFA franc",
       "symbol": "FCFA"
     },
-    "division_type": "province/region",
+    "division_type": "Province or Region",
     "divisions": [
       {
         "name": "Annobón",
@@ -8349,7 +8349,7 @@
       "name": "Eritrean nakfa",
       "symbol": "Nfk"
     },
-    "division_type": "region",
+    "division_type": "Region",
     "divisions": [
       {
         "name": "Anseba",
@@ -8410,7 +8410,7 @@
       "name": "Euro",
       "symbol": "€"
     },
-    "division_type": "rural municipality/urban municipality/county",
+    "division_type": "Rural municipality or Urban municipality",
     "divisions": [
       {
         "name": "Alutaguse",
@@ -8911,7 +8911,7 @@
       "name": "Lilangeni",
       "symbol": "E"
     },
-    "division_type": "region",
+    "division_type": "Region",
     "divisions": [
       {
         "name": "Hhohho",
@@ -8962,7 +8962,7 @@
       "name": "Ethiopian birr",
       "symbol": "Nkf"
     },
-    "division_type": "administration/region",
+    "division_type": "Region or Administration",
     "divisions": [
       {
         "name": "Addis Ababa",
@@ -9088,7 +9088,7 @@
       "name": "Danish krone",
       "symbol": "Kr."
     },
-    "division_type": "region",
+    "division_type": "Region",
     "divisions": [
       {
         "name": "Eysturoy",
@@ -9149,7 +9149,7 @@
       "name": "Fijian dollar",
       "symbol": "FJ$"
     },
-    "division_type": "province/division/dependency",
+    "division_type": "Province or Division",
     "divisions": [
       {
         "name": "Ba",
@@ -9275,7 +9275,7 @@
       "name": "Euro",
       "symbol": "€"
     },
-    "division_type": "region",
+    "division_type": "Region",
     "divisions": [
       {
         "name": "Central Finland",
@@ -9396,7 +9396,7 @@
       "name": "Euro",
       "symbol": "€"
     },
-    "division_type": "metropolitan department/European collectivity/metropolitan region/dependency/metropolitan collectivity with special status/overseas region/overseas collectivity/overseas territory/overseas collectivity with special status",
+    "division_type": "Metropolitan department or Metropolitan region",
     "divisions": [
       {
         "name": "Ain",
@@ -10077,7 +10077,7 @@
       "name": "CFP franc",
       "symbol": "₣"
     },
-    "division_type": "division",
+    "division_type": "Division",
     "divisions": [
       {
         "name": "Austral Islands",
@@ -10176,7 +10176,7 @@
       "name": "Central African CFA franc",
       "symbol": "FCFA"
     },
-    "division_type": "province",
+    "division_type": "Province",
     "divisions": [
       {
         "name": "Estuaire",
@@ -10252,7 +10252,7 @@
       "name": "Georgian lari",
       "symbol": "ლ"
     },
-    "division_type": "autonomous republic/region/city",
+    "division_type": "Region or Autonomous republic",
     "divisions": [
       {
         "name": "Abkhazia",
@@ -10343,7 +10343,7 @@
       "name": "Euro",
       "symbol": "€"
     },
-    "division_type": "land",
+    "division_type": "Land",
     "divisions": [
       {
         "name": "Baden-Württemberg",
@@ -10461,7 +10461,7 @@
       "name": "Ghanaian cedi",
       "symbol": "GH₵"
     },
-    "division_type": "region",
+    "division_type": "Region",
     "divisions": [
       {
         "name": "Ahafo",
@@ -10602,7 +10602,7 @@
       "name": "Euro",
       "symbol": "€"
     },
-    "division_type": "regional unit/administrative region",
+    "division_type": "Administrative region or Regional unit",
     "divisions": [
       {
         "name": "Achaea",
@@ -10708,7 +10708,7 @@
       "name": "Danish krone",
       "symbol": "Kr."
     },
-    "division_type": "municipality",
+    "division_type": "Municipality",
     "divisions": [
       {
         "name": "Avannaata",
@@ -10785,7 +10785,7 @@
       "name": "Eastern Caribbean dollar",
       "symbol": "$"
     },
-    "division_type": "dependency/parish",
+    "division_type": "Parish or Dependency",
     "divisions": [
       {
         "name": "Carriacou",
@@ -10851,7 +10851,7 @@
       "name": "Euro",
       "symbol": "€"
     },
-    "division_type": "district",
+    "division_type": "District",
     "divisions": [
       {
         "name": "Basse-Terre",
@@ -10892,7 +10892,7 @@
       "name": "United States dollar",
       "symbol": "$"
     },
-    "division_type": "village",
+    "division_type": "Village",
     "divisions": [
       {
         "name": "Agana Heights",
@@ -11018,7 +11018,7 @@
       "name": "Guatemalan quetzal",
       "symbol": "Q"
     },
-    "division_type": "department",
+    "division_type": "Department",
     "divisions": [
       {
         "name": "Alta Verapaz ",
@@ -11159,7 +11159,7 @@
       "name": "British pound",
       "symbol": "£"
     },
-    "division_type": "parish",
+    "division_type": "Parish",
     "divisions": [
       {
         "name": "Alderney",
@@ -11250,7 +11250,7 @@
       "name": "Guinean franc",
       "symbol": "FG"
     },
-    "division_type": "prefecture/administrative region/governorate",
+    "division_type": "Prefecture or Administrative region",
     "divisions": [
       {
         "name": "Beyla",
@@ -11486,7 +11486,7 @@
       "name": "West African CFA franc",
       "symbol": "CFA"
     },
-    "division_type": "region/autonomous sector/province",
+    "division_type": "Region or Province",
     "divisions": [
       {
         "name": "Bafatá",
@@ -11577,7 +11577,7 @@
       "name": "Guyanese dollar",
       "symbol": "$"
     },
-    "division_type": "region",
+    "division_type": "Region",
     "divisions": [
       {
         "name": "Barima-Waini",
@@ -11658,7 +11658,7 @@
       "name": "Haitian gourde",
       "symbol": "G"
     },
-    "division_type": "department",
+    "division_type": "Department",
     "divisions": [
       {
         "name": "Artibonite",
@@ -11768,7 +11768,7 @@
       "name": "Honduran lempira",
       "symbol": "L"
     },
-    "division_type": "department",
+    "division_type": "Department",
     "divisions": [
       {
         "name": "Atlántida",
@@ -11889,7 +11889,7 @@
       "name": "Hong Kong dollar",
       "symbol": "$"
     },
-    "division_type": "district",
+    "division_type": "District",
     "divisions": [
       {
         "name": "Central and Western",
@@ -12010,7 +12010,7 @@
       "name": "Hungarian forint",
       "symbol": "Ft"
     },
-    "division_type": "county/city with county rights/capital city",
+    "division_type": "City with county rights or County",
     "divisions": [
       {
         "name": "Bács-Kiskun",
@@ -12256,7 +12256,7 @@
       "name": "Icelandic króna",
       "symbol": "ko"
     },
-    "division_type": "municipality/region",
+    "division_type": "Municipality or Region",
     "divisions": [
       {
         "name": "Akranes",
@@ -12647,7 +12647,7 @@
       "name": "Indian rupee",
       "symbol": "₹"
     },
-    "division_type": "union territory/state",
+    "division_type": "State or Union territory",
     "divisions": [
       {
         "name": "Andaman and Nicobar Islands",
@@ -12858,7 +12858,7 @@
       "name": "Indonesian rupiah",
       "symbol": "Rp"
     },
-    "division_type": "province/Special region/capital district/geographical unit",
+    "division_type": "Province or Geographical unit",
     "divisions": [
       {
         "name": "Aceh",
@@ -13135,7 +13135,7 @@
       "name": "Iranian rial",
       "symbol": "﷼"
     },
-    "division_type": "province",
+    "division_type": "Province",
     "divisions": [
       {
         "name": "Alborz",
@@ -13321,7 +13321,7 @@
       "name": "Iraqi dinar",
       "symbol": "د.ع"
     },
-    "division_type": "governorate/region",
+    "division_type": "Governorate or Region",
     "divisions": [
       {
         "name": "Al Anbar",
@@ -13447,7 +13447,7 @@
       "name": "Euro",
       "symbol": "€"
     },
-    "division_type": "county/province",
+    "division_type": "County or Province",
     "divisions": [
       {
         "name": "Carlow",
@@ -13628,7 +13628,7 @@
       "name": "Israeli new shekel",
       "symbol": "₪"
     },
-    "division_type": "district",
+    "division_type": "District",
     "divisions": [
       {
         "name": "Central",
@@ -13689,7 +13689,7 @@
       "name": "Euro",
       "symbol": "€"
     },
-    "division_type": "region/free municipal consortium/province/autonomous region/metropolitan city/decentralized regional entity/autonomous province",
+    "division_type": "Province or Region",
     "divisions": [
       {
         "name": "Abruzzo",
@@ -14350,7 +14350,7 @@
       "name": "West African CFA franc",
       "symbol": "CFA"
     },
-    "division_type": "autonomous district/district",
+    "division_type": "District or Autonomous district",
     "divisions": [
       {
         "name": "Abidjan",
@@ -14451,7 +14451,7 @@
       "name": "Jamaican dollar",
       "symbol": "J$"
     },
-    "division_type": "parish",
+    "division_type": "Parish",
     "divisions": [
       {
         "name": "Clarendon",
@@ -14552,7 +14552,7 @@
       "name": "Japanese yen",
       "symbol": "¥"
     },
-    "division_type": "prefecture",
+    "division_type": "Prefecture",
     "divisions": [
       {
         "name": "Aichi",
@@ -14818,7 +14818,7 @@
       "name": "British pound",
       "symbol": "£"
     },
-    "division_type": "parish",
+    "division_type": "Parish",
     "divisions": [
       {
         "name": "Grouville",
@@ -14909,7 +14909,7 @@
       "name": "Jordanian dinar",
       "symbol": "ا.د"
     },
-    "division_type": "governorate",
+    "division_type": "Governorate",
     "divisions": [
       {
         "name": "Ajloun",
@@ -15000,7 +15000,7 @@
       "name": "Kazakhstani tenge",
       "symbol": "лв"
     },
-    "division_type": "region/city",
+    "division_type": "Region or City",
     "divisions": [
       {
         "name": "Abai",
@@ -15173,7 +15173,7 @@
       "name": "Kenyan shilling",
       "symbol": "KSh"
     },
-    "division_type": "county",
+    "division_type": "County",
     "divisions": [
       {
         "name": "Baringo",
@@ -15439,7 +15439,7 @@
       "name": "Australian dollar",
       "symbol": "$"
     },
-    "division_type": "island",
+    "division_type": "Island",
     "divisions": [
       {
         "name": "Gilbert",
@@ -15499,7 +15499,7 @@
       "name": "Euro",
       "symbol": "€"
     },
-    "division_type": "district",
+    "division_type": "District",
     "divisions": [
       {
         "name": "Ferizaj",
@@ -15565,7 +15565,7 @@
       "name": "Kuwaiti dinar",
       "symbol": "ك.د"
     },
-    "division_type": "governorate",
+    "division_type": "Governorate",
     "divisions": [
       {
         "name": "Al Ahmadi",
@@ -15626,7 +15626,7 @@
       "name": "Kyrgyzstani som",
       "symbol": "лв"
     },
-    "division_type": "region/city",
+    "division_type": "Region or City",
     "divisions": [
       {
         "name": "Batken",
@@ -15702,7 +15702,7 @@
       "name": "Lao kip",
       "symbol": "₭"
     },
-    "division_type": "province/prefecture",
+    "division_type": "Province or Prefecture",
     "divisions": [
       {
         "name": "Attapeu",
@@ -15823,7 +15823,7 @@
       "name": "Euro",
       "symbol": "€"
     },
-    "division_type": "municipality/state city",
+    "division_type": "Municipality or State city",
     "divisions": [
       {
         "name": "Ādaži",
@@ -16069,7 +16069,7 @@
       "name": "Lebanese pound",
       "symbol": "£"
     },
-    "division_type": "governorate",
+    "division_type": "Governorate",
     "divisions": [
       {
         "name": "Akkar",
@@ -16140,7 +16140,7 @@
       "name": "Lesotho loti",
       "symbol": "L"
     },
-    "division_type": "district",
+    "division_type": "District",
     "divisions": [
       {
         "name": "Berea",
@@ -16221,7 +16221,7 @@
       "name": "Liberian dollar",
       "symbol": "$"
     },
-    "division_type": "county",
+    "division_type": "County",
     "divisions": [
       {
         "name": "Bomi",
@@ -16327,7 +16327,7 @@
       "name": "Libyan dinar",
       "symbol": "د.ل"
     },
-    "division_type": "popularate",
+    "division_type": "Popularate",
     "divisions": [
       {
         "name": "Al Butnan",
@@ -16468,7 +16468,7 @@
       "name": "Swiss franc",
       "symbol": "CHf"
     },
-    "division_type": "commune",
+    "division_type": "Commune",
     "divisions": [
       {
         "name": "Balzers",
@@ -16554,7 +16554,7 @@
       "name": "Euro",
       "symbol": "€"
     },
-    "division_type": "district municipality/county/municipality/city municipality",
+    "division_type": "District municipality or County",
     "divisions": [
       {
         "name": "Akmenė",
@@ -16935,7 +16935,7 @@
       "name": "Euro",
       "symbol": "€"
     },
-    "division_type": "canton",
+    "division_type": "Canton",
     "divisions": [
       {
         "name": "Capellen",
@@ -17056,7 +17056,7 @@
       "name": "Malagasy ariary",
       "symbol": "Ar"
     },
-    "division_type": "province",
+    "division_type": "Province",
     "divisions": [
       {
         "name": "Antananarivo",
@@ -17117,7 +17117,7 @@
       "name": "Malawian kwacha",
       "symbol": "MK"
     },
-    "division_type": "district/region",
+    "division_type": "District or Region",
     "divisions": [
       {
         "name": "Balaka",
@@ -17303,7 +17303,7 @@
       "name": "Malaysian ringgit",
       "symbol": "RM"
     },
-    "division_type": "state/federal territory",
+    "division_type": "State or Federal territory",
     "divisions": [
       {
         "name": "Johor",
@@ -17421,7 +17421,7 @@
       "name": "Maldivian rufiyaa",
       "symbol": "Rf"
     },
-    "division_type": "city/administrative atoll",
+    "division_type": "Administrative atoll or City",
     "divisions": [
       {
         "name": "Addu",
@@ -17557,7 +17557,7 @@
       "name": "West African CFA franc",
       "symbol": "CFA"
     },
-    "division_type": "district/region",
+    "division_type": "Region or District",
     "divisions": [
       {
         "name": "Bamako",
@@ -17643,7 +17643,7 @@
       "name": "Euro",
       "symbol": "€"
     },
-    "division_type": "local council",
+    "division_type": "Local council",
     "divisions": [
       {
         "name": "Attard",
@@ -18014,7 +18014,7 @@
       "name": "British pound",
       "symbol": "£"
     },
-    "division_type": "sheadings",
+    "division_type": "Sheadings",
     "divisions": [
       {
         "name": "Ayre",
@@ -18075,7 +18075,7 @@
       "name": "United States dollar",
       "symbol": "$"
     },
-    "division_type": "municipality/chain",
+    "division_type": "Municipality or Chain",
     "divisions": [
       {
         "name": "Ailinglaplap",
@@ -18243,7 +18243,7 @@
       "name": "Euro",
       "symbol": "€"
     },
-    "division_type": "district",
+    "division_type": "District",
     "divisions": [
       {
         "name": "Fort-de-France",
@@ -18294,7 +18294,7 @@
       "name": "Mauritanian ouguiya",
       "symbol": "UM"
     },
-    "division_type": "region",
+    "division_type": "Region",
     "divisions": [
       {
         "name": "Adrar",
@@ -18400,7 +18400,7 @@
       "name": "Mauritian rupee",
       "symbol": "₨"
     },
-    "division_type": "dependency/district",
+    "division_type": "District or Dependency",
     "divisions": [
       {
         "name": "Agalega Islands",
@@ -18491,7 +18491,7 @@
       "name": "Euro",
       "symbol": "€"
     },
-    "division_type": "commune",
+    "division_type": "Commune",
     "divisions": [
       {
         "name": "Acoua",
@@ -18607,7 +18607,7 @@
       "name": "Mexican peso",
       "symbol": "$"
     },
-    "division_type": "state/federal district",
+    "division_type": "State or Federal district",
     "divisions": [
       {
         "name": "Aguascalientes",
@@ -18868,7 +18868,7 @@
       "name": "United States dollar",
       "symbol": "$"
     },
-    "division_type": "state",
+    "division_type": "State",
     "divisions": [
       {
         "name": "Chuuk",
@@ -18933,7 +18933,7 @@
       "name": "Moldovan leu",
       "symbol": "L"
     },
-    "division_type": "district/city/autonomous territorial unit/territorial unit",
+    "division_type": "District or City",
     "divisions": [
       {
         "name": "Anenii Noi",
@@ -19149,7 +19149,7 @@
       "name": "Euro",
       "symbol": "€"
     },
-    "division_type": "quarter",
+    "division_type": "Quarter",
     "divisions": [
       {
         "name": "Fontvieille",
@@ -19265,7 +19265,7 @@
       "name": "Mongolian tögrög",
       "symbol": "₮"
     },
-    "division_type": "province/capital city",
+    "division_type": "Province or Capital city",
     "divisions": [
       {
         "name": "Arkhangai",
@@ -19420,7 +19420,7 @@
       "name": "Euro",
       "symbol": "€"
     },
-    "division_type": "municipality",
+    "division_type": "Municipality",
     "divisions": [
       {
         "name": "Andrijevica",
@@ -19576,7 +19576,7 @@
       "name": "Eastern Caribbean dollar",
       "symbol": "$"
     },
-    "division_type": "parish",
+    "division_type": "Parish",
     "divisions": [
       {
         "name": "Saint Anthony",
@@ -19622,7 +19622,7 @@
       "name": "Moroccan dirham",
       "symbol": "DH"
     },
-    "division_type": "prefecture/province/region",
+    "division_type": "Province or Prefecture",
     "divisions": [
       {
         "name": "Agadir-Ida-Ou-Tanane",
@@ -20095,7 +20095,7 @@
       "name": "Mozambican metical",
       "symbol": "MT"
     },
-    "division_type": "province/city",
+    "division_type": "Province or City",
     "divisions": [
       {
         "name": "Cabo Delgado",
@@ -20181,7 +20181,7 @@
       "name": "Burmese kyat",
       "symbol": "K"
     },
-    "division_type": "region/state/union territory",
+    "division_type": "Region or State",
     "divisions": [
       {
         "name": "Ayeyarwady",
@@ -20287,7 +20287,7 @@
       "name": "Namibian dollar",
       "symbol": "$"
     },
-    "division_type": "region",
+    "division_type": "Region",
     "divisions": [
       {
         "name": "Erongo",
@@ -20388,7 +20388,7 @@
       "name": "Australian dollar",
       "symbol": "$"
     },
-    "division_type": "district",
+    "division_type": "District",
     "divisions": [
       {
         "name": "Aiwo",
@@ -20489,7 +20489,7 @@
       "name": "Nepalese rupee",
       "symbol": "₨"
     },
-    "division_type": "province",
+    "division_type": "Province",
     "divisions": [
       {
         "name": "Bagmati",
@@ -20555,7 +20555,7 @@
       "name": "Euro",
       "symbol": "€"
     },
-    "division_type": "province",
+    "division_type": "Province",
     "divisions": [
       {
         "name": "Drenthe",
@@ -20646,7 +20646,7 @@
       "name": "CFP franc",
       "symbol": "₣"
     },
-    "division_type": "province",
+    "division_type": "Province",
     "divisions": [
       {
         "name": "Loyalty Islands Province",
@@ -20692,7 +20692,7 @@
       "name": "New Zealand dollar",
       "symbol": "$"
     },
-    "division_type": "region/special island authority",
+    "division_type": "Region or Special island authority",
     "divisions": [
       {
         "name": "Auckland",
@@ -20815,7 +20815,7 @@
       "name": "Nicaraguan córdoba",
       "symbol": "C$"
     },
-    "division_type": "department/autonomous region",
+    "division_type": "Department or Autonomous region",
     "divisions": [
       {
         "name": "Boaco",
@@ -20931,7 +20931,7 @@
       "name": "West African CFA franc",
       "symbol": "CFA"
     },
-    "division_type": "region/urban community",
+    "division_type": "Region or Urban community",
     "divisions": [
       {
         "name": "Agadez",
@@ -21002,7 +21002,7 @@
       "name": "Nigerian naira",
       "symbol": "₦"
     },
-    "division_type": "state/capital territory",
+    "division_type": "State or Capital territory",
     "divisions": [
       {
         "name": "Abia",
@@ -21218,7 +21218,7 @@
       "name": "New Zealand dollar",
       "symbol": "$"
     },
-    "division_type": "village",
+    "division_type": "Village",
     "divisions": [
       {
         "name": "Alofi North",
@@ -21349,7 +21349,7 @@
       "name": "North Korean Won",
       "symbol": "₩"
     },
-    "division_type": "province/metropolitan city/capital city/special city",
+    "division_type": "Province or Metropolitan city",
     "divisions": [
       {
         "name": "Chagang",
@@ -21445,7 +21445,7 @@
       "name": "Denar",
       "symbol": "ден"
     },
-    "division_type": "municipality",
+    "division_type": "Municipality",
     "divisions": [
       {
         "name": "Aerodrom",
@@ -21906,7 +21906,7 @@
       "name": "Norwegian krone",
       "symbol": "ko"
     },
-    "division_type": "county/arctic region",
+    "division_type": "County or Arctic region",
     "divisions": [
       {
         "name": "Agder",
@@ -22029,7 +22029,7 @@
       "name": "Omani rial",
       "symbol": ".ع.ر"
     },
-    "division_type": "governorate",
+    "division_type": "Governorate",
     "divisions": [
       {
         "name": "Ad Dakhiliyah",
@@ -22115,7 +22115,7 @@
       "name": "Pakistani rupee",
       "symbol": "₨"
     },
-    "division_type": "administered area/province/federal capital territory",
+    "division_type": "Province or Administered area",
     "divisions": [
       {
         "name": "Azad Kashmir",
@@ -22181,7 +22181,7 @@
       "name": "United States dollar",
       "symbol": "$"
     },
-    "division_type": "state",
+    "division_type": "State",
     "divisions": [
       {
         "name": "Aimeliik",
@@ -22292,7 +22292,7 @@
       "name": "Israeli new shekel",
       "symbol": "₪"
     },
-    "division_type": "governorate",
+    "division_type": "Governorate",
     "divisions": [
       {
         "name": "Bethlehem",
@@ -22410,7 +22410,7 @@
       "name": "Panamanian balboa",
       "symbol": "B/."
     },
-    "division_type": "province/indigenous region",
+    "division_type": "Province or Indigenous region",
     "divisions": [
       {
         "name": "Bocas del Toro",
@@ -22511,7 +22511,7 @@
       "name": "Papua New Guinean kina",
       "symbol": "K"
     },
-    "division_type": "autonomous region/province/district",
+    "division_type": "Province or Autonomous region",
     "divisions": [
       {
         "name": "Bougainville",
@@ -22659,7 +22659,7 @@
       "name": "Paraguayan guarani",
       "symbol": "₲"
     },
-    "division_type": "department",
+    "division_type": "Department",
     "divisions": [
       {
         "name": "Alto Paraguay",
@@ -22780,7 +22780,7 @@
       "name": "Peruvian sol",
       "symbol": "S/."
     },
-    "division_type": "region/municipality",
+    "division_type": "Region or Municipality",
     "divisions": [
       {
         "name": "Amazonas",
@@ -22941,7 +22941,7 @@
       "name": "Philippine peso",
       "symbol": "₱"
     },
-    "division_type": "province/region",
+    "division_type": "Province or Region",
     "divisions": [
       {
         "name": "Abra",
@@ -23496,7 +23496,7 @@
       "name": "Polish złoty",
       "symbol": "zł"
     },
-    "division_type": "voivodship",
+    "division_type": "Voivodship",
     "divisions": [
       {
         "name": "Greater Poland",
@@ -23607,7 +23607,7 @@
       "name": "Euro",
       "symbol": "€"
     },
-    "division_type": "autonomous region/district",
+    "division_type": "District or Autonomous region",
     "divisions": [
       {
         "name": "Açores",
@@ -23752,7 +23752,7 @@
       "name": "United States dollar",
       "symbol": "$"
     },
-    "division_type": "municipality/region",
+    "division_type": "Municipality or Region",
     "divisions": [
       {
         "name": "Adjuntas",
@@ -24173,7 +24173,7 @@
       "name": "Qatari riyal",
       "symbol": "ق.ر"
     },
-    "division_type": "municipality",
+    "division_type": "Municipality",
     "divisions": [
       {
         "name": "Al Daayen",
@@ -24244,7 +24244,7 @@
       "name": "Euro",
       "symbol": "€"
     },
-    "division_type": "district",
+    "division_type": "District",
     "divisions": [
       {
         "name": "Saint-Benoît",
@@ -24295,7 +24295,7 @@
       "name": "Romanian leu",
       "symbol": "lei"
     },
-    "division_type": "department/municipality",
+    "division_type": "Department or Municipality",
     "divisions": [
       {
         "name": "Alba",
@@ -24536,7 +24536,7 @@
       "name": "Russian ruble",
       "symbol": "₽"
     },
-    "division_type": "republic/administrative territory/administrative region/autonomous district/autonomous region/autonomous city",
+    "division_type": "Administrative region or Republic",
     "divisions": [
       {
         "name": "Adygea",
@@ -25157,7 +25157,7 @@
       "name": "Rwandan franc",
       "symbol": "FRw"
     },
-    "division_type": "province/city",
+    "division_type": "Province or City",
     "divisions": [
       {
         "name": "Eastern",
@@ -25213,7 +25213,7 @@
       "name": "Saint Helena pound",
       "symbol": "£"
     },
-    "division_type": "district",
+    "division_type": "District",
     "divisions": [
       {
         "name": "Alarm Forest",
@@ -25284,7 +25284,7 @@
       "name": "Eastern Caribbean dollar",
       "symbol": "$"
     },
-    "division_type": "parish/state",
+    "division_type": "Parish or State",
     "divisions": [
       {
         "name": "Christ Church Nichola Town",
@@ -25395,7 +25395,7 @@
       "name": "Eastern Caribbean dollar",
       "symbol": "$"
     },
-    "division_type": "district",
+    "division_type": "District",
     "divisions": [
       {
         "name": "Anse la Raye",
@@ -25506,7 +25506,7 @@
       "name": "Eastern Caribbean dollar",
       "symbol": "$"
     },
-    "division_type": "parish",
+    "division_type": "Parish",
     "divisions": [
       {
         "name": "Charlotte",
@@ -25627,7 +25627,7 @@
       "name": "Samoan tālā",
       "symbol": "SAT"
     },
-    "division_type": "district",
+    "division_type": "District",
     "divisions": [
       {
         "name": "A'ana",
@@ -25713,7 +25713,7 @@
       "name": "Euro",
       "symbol": "€"
     },
-    "division_type": "municipality",
+    "division_type": "Municipality",
     "divisions": [
       {
         "name": "Acquaviva",
@@ -25789,7 +25789,7 @@
       "name": "Dobra",
       "symbol": "Db"
     },
-    "division_type": "district/autonomous region",
+    "division_type": "District or Autonomous region",
     "divisions": [
       {
         "name": "Água Grande",
@@ -25855,7 +25855,7 @@
       "name": "Saudi riyal",
       "symbol": "﷼"
     },
-    "division_type": "region",
+    "division_type": "Region",
     "divisions": [
       {
         "name": "Al Bahah",
@@ -25951,7 +25951,7 @@
       "name": "West African CFA franc",
       "symbol": "CFA"
     },
-    "division_type": "region",
+    "division_type": "Region",
     "divisions": [
       {
         "name": "Dakar",
@@ -26052,7 +26052,7 @@
       "name": "Serbian dinar",
       "symbol": "din"
     },
-    "division_type": "city/district/province",
+    "division_type": "District or Province",
     "divisions": [
       {
         "name": "Belgrade",
@@ -26243,7 +26243,7 @@
       "name": "Seychellois rupee",
       "symbol": "SRe"
     },
-    "division_type": "district",
+    "division_type": "District",
     "divisions": [
       {
         "name": "Anse Boileau",
@@ -26409,7 +26409,7 @@
       "name": "Sierra Leonean leone",
       "symbol": "Le"
     },
-    "division_type": "province/area",
+    "division_type": "Province or Area",
     "divisions": [
       {
         "name": "Eastern",
@@ -26465,7 +26465,7 @@
       "name": "Singapore dollar",
       "symbol": "$"
     },
-    "division_type": "district",
+    "division_type": "District",
     "divisions": [
       {
         "name": "Central Singapore",
@@ -26551,7 +26551,7 @@
       "name": "Euro",
       "symbol": "€"
     },
-    "division_type": "region",
+    "division_type": "Region",
     "divisions": [
       {
         "name": "Banská Bystrica",
@@ -26622,7 +26622,7 @@
       "name": "Euro",
       "symbol": "€"
     },
-    "division_type": "municipality/urban municipality",
+    "division_type": "Municipality or Urban municipality",
     "divisions": [
       {
         "name": "Ajdovščina",
@@ -27713,7 +27713,7 @@
       "name": "Solomon Islands dollar",
       "symbol": "Si$"
     },
-    "division_type": "province/capital territory",
+    "division_type": "Province or Capital territory",
     "divisions": [
       {
         "name": "Central",
@@ -27794,7 +27794,7 @@
       "name": "Somali shilling",
       "symbol": "Sh.so."
     },
-    "division_type": "region",
+    "division_type": "Region",
     "divisions": [
       {
         "name": "Awdal",
@@ -27915,7 +27915,7 @@
       "name": "South African rand",
       "symbol": "R"
     },
-    "division_type": "province",
+    "division_type": "Province",
     "divisions": [
       {
         "name": "Eastern Cape",
@@ -28020,7 +28020,7 @@
       "name": "Won",
       "symbol": "₩"
     },
-    "division_type": "metropolitan city/special self-governing province/province/special self-governing city/special city",
+    "division_type": "Province or Metropolitan city",
     "divisions": [
       {
         "name": "Busan",
@@ -28136,7 +28136,7 @@
       "name": "South Sudanese pound",
       "symbol": "£"
     },
-    "division_type": "state",
+    "division_type": "State",
     "divisions": [
       {
         "name": "Central Equatoria",
@@ -28217,7 +28217,7 @@
       "name": "Euro",
       "symbol": "€"
     },
-    "division_type": "province/autonomous community/autonomous city",
+    "division_type": "Province or Autonomous community",
     "divisions": [
       {
         "name": "A Coruña",
@@ -28607,7 +28607,7 @@
       "name": "Sri Lankan rupee",
       "symbol": "Rs"
     },
-    "division_type": "district/province",
+    "division_type": "District or Province",
     "divisions": [
       {
         "name": "Ampara",
@@ -28808,7 +28808,7 @@
       "name": "Sudanese pound",
       "symbol": ".س.ج"
     },
-    "division_type": "state",
+    "division_type": "State",
     "divisions": [
       {
         "name": "Al Jazirah",
@@ -28929,7 +28929,7 @@
       "name": "Surinamese dollar",
       "symbol": "$"
     },
-    "division_type": "district",
+    "division_type": "District",
     "divisions": [
       {
         "name": "Brokopondo",
@@ -29040,7 +29040,7 @@
       "name": "Swedish krona",
       "symbol": "ko"
     },
-    "division_type": "county",
+    "division_type": "County",
     "divisions": [
       {
         "name": "Blekinge",
@@ -29176,7 +29176,7 @@
       "name": "Swiss franc",
       "symbol": "CHf"
     },
-    "division_type": "canton",
+    "division_type": "Canton",
     "divisions": [
       {
         "name": "Aargau",
@@ -29337,7 +29337,7 @@
       "name": "Syrian pound",
       "symbol": "LS"
     },
-    "division_type": "province",
+    "division_type": "Province",
     "divisions": [
       {
         "name": "Al-Hasakah",
@@ -29438,7 +29438,7 @@
       "name": "New Taiwan dollar",
       "symbol": "$"
     },
-    "division_type": "county/city/special municipality",
+    "division_type": "County or Special municipality",
     "divisions": [
       {
         "name": "Changhua",
@@ -29579,7 +29579,7 @@
       "name": "Tajikistani somoni",
       "symbol": "SM"
     },
-    "division_type": "capital territory/autonomous region/region/districts under republic administration",
+    "division_type": "Region or Capital territory",
     "divisions": [
       {
         "name": "Dushanbe",
@@ -29635,7 +29635,7 @@
       "name": "Tanzanian shilling",
       "symbol": "TSh"
     },
-    "division_type": "region",
+    "division_type": "Region",
     "divisions": [
       {
         "name": "Arusha",
@@ -29821,7 +29821,7 @@
       "name": "Thai baht",
       "symbol": "฿"
     },
-    "division_type": "province/metropolitan administration",
+    "division_type": "Province or Metropolitan administration",
     "divisions": [
       {
         "name": "Amnat Charoen",
@@ -30242,7 +30242,7 @@
       "name": "Bahamian dollar",
       "symbol": "B$"
     },
-    "division_type": "district/island",
+    "division_type": "District or Island",
     "divisions": [
       {
         "name": "Acklins",
@@ -30433,7 +30433,7 @@
       "name": "Gambian dalasi",
       "symbol": "D"
     },
-    "division_type": "city/division",
+    "division_type": "Division or City",
     "divisions": [
       {
         "name": "Banjul",
@@ -30494,7 +30494,7 @@
       "name": "United States dollar",
       "symbol": "$"
     },
-    "division_type": "municipality/special administrative region",
+    "division_type": "Municipality or Special administrative region",
     "divisions": [
       {
         "name": "Aileu",
@@ -30590,7 +30590,7 @@
       "name": "West African CFA franc",
       "symbol": "CFA"
     },
-    "division_type": "region",
+    "division_type": "Region",
     "divisions": [
       {
         "name": "Centrale",
@@ -30676,7 +30676,7 @@
       "name": "Tongan paʻanga",
       "symbol": "$"
     },
-    "division_type": "division",
+    "division_type": "Division",
     "divisions": [
       {
         "name": "Haʻapai",
@@ -30732,7 +30732,7 @@
       "name": "Trinidad and Tobago dollar",
       "symbol": "$"
     },
-    "division_type": "borough/region/city/ward",
+    "division_type": "Region or Borough",
     "divisions": [
       {
         "name": "Arima",
@@ -30848,7 +30848,7 @@
       "name": "Tunisian dinar",
       "symbol": "ت.د"
     },
-    "division_type": "governorate",
+    "division_type": "Governorate",
     "divisions": [
       {
         "name": "Ariana",
@@ -30999,7 +30999,7 @@
       "name": "Turkish lira",
       "symbol": "₺"
     },
-    "division_type": "province",
+    "division_type": "Province",
     "divisions": [
       {
         "name": "Adana",
@@ -31435,7 +31435,7 @@
       "name": "Turkmenistan manat",
       "symbol": "T"
     },
-    "division_type": "region/city",
+    "division_type": "Region or City",
     "divisions": [
       {
         "name": "Ahal",
@@ -31496,7 +31496,7 @@
       "name": "United States dollar",
       "symbol": "$"
     },
-    "division_type": "district",
+    "division_type": "District",
     "divisions": [
       {
         "name": "Grand Turk",
@@ -31557,7 +31557,7 @@
       "name": "Australian dollar",
       "symbol": "$"
     },
-    "division_type": "town council/island council",
+    "division_type": "Island council or Town council",
     "divisions": [
       {
         "name": "Funafuti",
@@ -31628,7 +31628,7 @@
       "name": "Ugandan shilling",
       "symbol": "USh"
     },
-    "division_type": "district/region/city",
+    "division_type": "District or Region",
     "divisions": [
       {
         "name": "Abim",
@@ -32354,7 +32354,7 @@
       "name": "Ukrainian hryvnia",
       "symbol": "₴"
     },
-    "division_type": "republic/region/city",
+    "division_type": "Region or City",
     "divisions": [
       {
         "name": "Autonomous Republic of Crimea",
@@ -32541,7 +32541,7 @@
       "name": "United Arab Emirates dirham",
       "symbol": "إ.د"
     },
-    "division_type": "emirate",
+    "division_type": "Emirate",
     "divisions": [
       {
         "name": "Abu Dhabi",
@@ -32607,7 +32607,7 @@
       "name": "British pound",
       "symbol": "£"
     },
-    "division_type": "council area/district/london borough/metropolitan district/unitary authority/two-tier county/country/city/province",
+    "division_type": "Unitary authority or Metropolitan district",
     "divisions": [
       {
         "name": "Aberdeen",
@@ -33743,7 +33743,7 @@
       "name": "United States dollar",
       "symbol": "$"
     },
-    "division_type": "state/outlying area/district",
+    "division_type": "State or Outlying area",
     "divisions": [
       {
         "name": "Alabama",
@@ -34254,7 +34254,7 @@
       "name": "United States dollar",
       "symbol": "$"
     },
-    "division_type": "island",
+    "division_type": "Island",
     "divisions": [
       {
         "name": "Baker Island",
@@ -34337,7 +34337,7 @@
       "name": "Uruguayan peso",
       "symbol": "$"
     },
-    "division_type": "department",
+    "division_type": "Department",
     "divisions": [
       {
         "name": "Artigas",
@@ -34463,7 +34463,7 @@
       "name": "Uzbekistani soʻm",
       "symbol": "лв"
     },
-    "division_type": "region/republic/city",
+    "division_type": "Region or Republic",
     "divisions": [
       {
         "name": "Andijan",
@@ -34571,7 +34571,7 @@
       "name": "Vanuatu vatu",
       "symbol": "VT"
     },
-    "division_type": "province",
+    "division_type": "Province",
     "divisions": [
       {
         "name": "Malampa",
@@ -34662,7 +34662,7 @@
       "name": "Bolívar",
       "symbol": "Bs"
     },
-    "division_type": "state/capital district/federal dependency",
+    "division_type": "State or Capital district",
     "divisions": [
       {
         "name": "Amazonas",
@@ -34818,7 +34818,7 @@
       "name": "Vietnamese đồng",
       "symbol": "₫"
     },
-    "division_type": "province/municipality",
+    "division_type": "Province or Municipality",
     "divisions": [
       {
         "name": "An Giang",
@@ -35049,7 +35049,7 @@
       "name": "United States dollar",
       "symbol": "$"
     },
-    "division_type": "district",
+    "division_type": "District",
     "divisions": [
       {
         "name": "Saint Croix",
@@ -35095,7 +35095,7 @@
       "name": "CFP franc",
       "symbol": "₣"
     },
-    "division_type": "administrative precinct",
+    "division_type": "Administrative precinct",
     "divisions": [
       {
         "name": "Alo",
@@ -35171,7 +35171,7 @@
       "name": "Yemeni rial",
       "symbol": "﷼"
     },
-    "division_type": "governorate/municipality",
+    "division_type": "Governorate or Municipality",
     "divisions": [
       {
         "name": "Abyan",
@@ -35312,7 +35312,7 @@
       "name": "Zambian kwacha",
       "symbol": "ZK"
     },
-    "division_type": "province",
+    "division_type": "Province",
     "divisions": [
       {
         "name": "Central",
@@ -35393,7 +35393,7 @@
       "name": "Zimbabwe Dollar",
       "symbol": "$"
     },
-    "division_type": "province",
+    "division_type": "Province",
     "divisions": [
       {
         "name": "Bulawayo",
